@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navigation{
+    background-color: rgb(255, 47, 47);
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    font-size: 40px;
+    height: 170px;
+}
+
+.form{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    height: 163px;
+    padding-top: 72px;
+    padding-bottom: 45px;
+}
+
+.button1{
+    width: 215px;
+    height: 35px;
+}
+
+.button2{
+    width: 215px;
+    height: 35px;
+}
+
+.button3{
+    width: 215px;
+    height: 35px;
+}
+
+.formhead{
+    font-family: 'Bangers', cursive;
+    font-size: 40px;
+}
+
+.ending{
+    background-color: gold;
+    color: white;
+    height: 214px;
+}
+
+.pagefoot{
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    font-size: 40px;
+    padding-top: 34px;
+}
+
+.copyright{
+    text-align: center;
+    color: black;
+    font-weight: 400;
+}
+
+
+
+
